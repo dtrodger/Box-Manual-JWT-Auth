@@ -1,4 +1,9 @@
 ## Manual Box JWT Authentication  
+### System Requirements
+[Python 3.6+](https://www.python.org/downloads/)  
+[PIP package manager](https://pip.pypa.io/en/stable/installing/)  
+[virtualenv](https://virtualenv.pypa.io/en/latest/) 
+### Setup   
 1. From the project root folder, create a Python 3.6+ virtual environment.  
 `$ virtualenv --python=python3 env`
 2. Activate the virtual environment.  
