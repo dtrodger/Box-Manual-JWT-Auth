@@ -4,7 +4,7 @@ black==19.10b0
 cffi==1.14.0
 click==7.1.1
 configobj==5.0.6
-cryptography==2.9
+cryptography==3.2
 future==0.18.2
 jwt==1.0.0
 pathspec==0.7.0
