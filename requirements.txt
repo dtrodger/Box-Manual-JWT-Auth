@@ -14,7 +14,7 @@ pycparser==2.20
 PyJWT==1.7.1
 pyOpenSSL==19.1.0
 python-gnupg==0.4.5
-python-ldap==3.2.0
+python-ldap==3.4.0
 regex==2020.4.4
 secrets==1.0.2
 six==1.14.0
